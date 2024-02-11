@@ -1,0 +1,15 @@
+.about {
+   @apply h-full w-full bg-gradient-to-tr from-violet-700 to-violet-950 py-2 flex flex-col relative
+}
+
+.header {
+   @apply flex font-bold mb-1 ml-2
+}
+
+.text {
+   @apply text-violet-100 text-sm p-1
+}
+
+.img {
+   @apply size-28 z-10 flex justify-end
+}
